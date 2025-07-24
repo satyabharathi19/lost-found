@@ -11,9 +11,9 @@ The Lost and Found Bulletin Board project is a community-driven initiative that 
 - **Provide Ongoing Support:** Continuously maintain and improve the platform to ensure it remains a valuable resource for the community.
   
 ### Languages Used:
-#### Front end : ![React] ![CSS3]
-#### Backend : ![NodeJS] ![Express.js]
-#### Database : ![MongoDB]<br />
+#### Front end : React,CSS3
+#### Backend : NodeJS,Express.js
+#### Database : MongoDB
 
 
 
